@@ -154,7 +154,6 @@
     <version>2.22.1</version>
 </dependency>
 
-
  <dependency>
     <groupId>org.awaitility</groupId>
     <artifactId>awaitility</artifactId>
@@ -162,11 +161,8 @@
 </dependency>
 
 
- <dependency>
- 	<groupId>bank</groupId>
- 	<artifactId>bank</artifactId>
- 	<version>0.0.1-SNAPSHOT</version>
- </dependency>
+
+ 
  </dependencies>
    
    </project>
